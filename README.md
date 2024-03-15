@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...2023<br><br>📚 Currently Working on MERN ...<br><br>🎯 Goals: To become a senior software engineer<br><br>🎲 Fun fact: I love calisthenics and working out.</p>
+<p align="left">✨ Coding Since 2021<br><br>📚 Improving skills<br><br>🎯 Goals: To become a Respected Developer<br><br>🎲 Fun fact: I love Playing Basketball.</p>
 
 ###
 
