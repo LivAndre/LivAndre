@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with my friends</h2>
+
 
 ###
 
@@ -53,4 +53,4 @@
 </div>
 
 ###
-<a href="https://git.io/streak-stats"><img src="(https://streak-stats.demolab.com/?user=LivAndre)](https://git.io/streak-stats" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LivAndre&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
