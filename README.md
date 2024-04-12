@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Coding Since 2021<br><br>📚 Improving skills<br><br>🎯 Goals: To become a Respected Developer<br><br>🎲 Fun fact: I love Playing Basketball.</p>
+<p align="left">✨ Coding Since 2021<br><br>📚 Improving skills<br><br>🎯 Goals: To become a 6 Digit Salary Developer<br><br>🎲 Fun fact: I love Playing Basketball.</p>
 
 ###
 
